@@ -9,7 +9,7 @@ build:
         - method: pip
           path: .
     
-sphinx:
+sphinx: "3.8"
   fail_on_warning: true
 
 formats:
